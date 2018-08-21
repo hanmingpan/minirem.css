@@ -1,0 +1,25 @@
+{
+  "name": "rem.css",
+  "version": "0.0.1",
+  "description": "A mobile css layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanmingpan/rem.css.git"
+  },
+  "keywords": [
+    "rem",
+    "css",
+    "sass",
+    "vw"
+  ],
+  "author": "hanmingpan@github.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanmingpan/rem.css/issues"
+  },
+  "homepage": "https://github.com/hanmingpan/rem.css#readme"
+}
