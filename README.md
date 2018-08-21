@@ -1,26 +1,27 @@
-# rem.css
+# minirem.css
 
 rem layout
 
-# install
-    npm install rem.css --save
+# Install
+    npm i minirem.css --save
 
-# usage
+# Usage
 
-## module
-    import 'rem.scss'
+## Module
+    import 'minirem.scss'
 
-## browser
+## Browser
     <link rel="stylesheet" href="rem.css">
 
 # Example
     .main {
-        // width: 100px;
         width: 1rem;
     }
 
     // variable.scss
+
     $baseFontSize:100;
+
     @function px2rem($px){
         @return $px / $baseFontSize * 1rem;
     }

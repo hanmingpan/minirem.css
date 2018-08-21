@@ -1,5 +1,5 @@
 {
-  "name": "rem.css",
+  "name": "minirem.css",
   "version": "0.0.1",
   "description": "A mobile css layout",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hanmingpan/rem.css.git"
+    "url": "git@github.com:hanmingpan/minirem.css.git"
   },
   "keywords": [
     "rem",
@@ -16,10 +16,10 @@
     "sass",
     "vw"
   ],
-  "author": "hanmingpan@github.com",
+  "author": "hanmingpan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hanmingpan/rem.css/issues"
+    "url": "https://github.com/hanmingpan/minirem.css/issues"
   },
-  "homepage": "https://github.com/hanmingpan/rem.css#readme"
+  "homepage": "https://github.com/hanmingpan/minirem.css#readme"
 }
