@@ -1,15 +1,16 @@
 $list: (768px, 720px, 640px, 540px, 480px, 414px, 412px, 400px, 393px, 375px, 360px, 345px, 320px);
+$base: 3.75;
 
 @each $screen in $list {
     @media only screen and (max-width: $screen ) {
         html {
-            font-size: ($screen / 10);
+            font-size: ($screen / $base);
         }
     }
 }
 
 html {
-    font-size: 10vw;
+    font-size: 100vw / $base;
     -webkit-text-size-adjust: none;
 }
 
