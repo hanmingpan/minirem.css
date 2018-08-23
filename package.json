@@ -1,6 +1,6 @@
 {
     "name": "minirem.css",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "A mobile css layout",
     "main": "minirem.css",
     "scripts": {

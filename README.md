@@ -1,5 +1,7 @@
 # minirem.css
 
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 A mobile layout css with rem
 
 - no javascript
