@@ -4,7 +4,8 @@
     "description": "A mobile css layout",
     "main": "minirem.css",
     "scripts": {
-        "build": "sass minirem.scss:minirem.css --style compressed"
+        "build": "sass minirem.scss:minirem.css --style compressed",
+        "test": "stylelint minirem.scss"
     },
     "repository": {
         "type": "git",
@@ -24,5 +25,9 @@
     "bugs": {
         "url": "https://github.com/hanmingpan/minirem.css/issues"
     },
-    "homepage": "https://github.com/hanmingpan/minirem.css#readme"
+    "homepage": "https://github.com/hanmingpan/minirem.css#readme",
+    "devDependencies": {
+        "stylelint": "^9.5.0",
+        "stylelint-config-standard": "^18.2.0"
+    }
 }

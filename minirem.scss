@@ -2,7 +2,7 @@ $list: (768px, 720px, 640px, 540px, 480px, 414px, 412px, 400px, 393px, 375px, 36
 $base: 7.5;
 
 @each $screen in $list {
-    @media only screen and (max-width: $screen ) {
+    @media only screen and (max-width: $screen) {
         html {
             font-size: ($screen / $base);
         }
