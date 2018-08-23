@@ -1,5 +1,5 @@
 $list: (768px, 720px, 640px, 540px, 480px, 414px, 412px, 400px, 393px, 375px, 360px, 345px, 320px);
-$base: 3.75;
+$base: 7.5;
 
 @each $screen in $list {
     @media only screen and (max-width: $screen ) {

@@ -13,7 +13,7 @@ A mobile layout css with rem
 - 1rem = 100px
 
 ## Module
-    import 'minirem.scss'
+    import 'minirem.css'
 
 ## Browser
     <link rel="stylesheet" href="minirem.css">

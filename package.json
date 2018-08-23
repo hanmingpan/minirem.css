@@ -4,8 +4,7 @@
     "description": "A mobile css layout",
     "main": "minirem.css",
     "scripts": {
-        "build": "sass minirem.scss:minirem.css --style compressed",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "build": "sass minirem.scss:minirem.css --style compressed"
     },
     "repository": {
         "type": "git",
