@@ -20,6 +20,9 @@ A mobile layout css with rem
 ## Browser
     <link rel="stylesheet" href="minirem.css">
 
+## CDN
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/minirem.css">
+
 # Example
 
 ## css
@@ -29,7 +32,6 @@ A mobile layout css with rem
 
 ## sass
     // variable.scss
-
     $baseFontSize:100;
 
     @function px2rem($px){
